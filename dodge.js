@@ -11,4 +11,7 @@
 // @downloadURL https://github.com/z3xobyte/dodge/raw/main/dodge.js
 // @updateURL   https://github.com/z3xobyte/dodge/raw/main/dodge.js
 // ==/UserScript==
-console.log("gg");
+(function() {
+    console.log("Random action: Changing background color!");
+    document.body.style.backgroundColor = "#"+((1<<24)*Math.random()|0).toString(16);
+})();
