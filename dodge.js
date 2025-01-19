@@ -11,3 +11,4 @@
 // @downloadURL https://github.com/z3xobyte/dodge/raw/main/dodge.js
 // @updateURL   https://github.com/z3xobyte/dodge/raw/main/dodge.js
 // ==/UserScript==
+console.log("gg");
